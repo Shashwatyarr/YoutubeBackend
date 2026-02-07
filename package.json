@@ -1,0 +1,14 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": ""
+  },
+  "keywords": [],
+  "author": "Shashwat Srivastava",
+  "license": "ISC",
+  "type": "module"
+}
